@@ -1,6 +1,12 @@
 body{
     font-family: 'Noto Sans TC', sans-serif;
 }
+h1 .text-primary {
+    font-size: 3rem;
+    letter-spacing: 0.1rem;
+    line-height: 2rem;
+    color: #F26D6D!important;
+}
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: none;
