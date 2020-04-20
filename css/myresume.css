@@ -133,4 +133,5 @@ a:active, a:focus, a:hover {
     left: 17px;
   }
 }
-
+jumbotron ul{
+list-style-type: disc;}
